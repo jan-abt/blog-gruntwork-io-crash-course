@@ -5,12 +5,15 @@
 
 -gruntwork-io.iml
 
- .terraform
+*.terraform.lock.hcl
+*.terraform
 *.tfstate
 *.tfstate.backup
 
 module-example/multi-server/.terraform
 module-example/multi-server/.terraform.lock.hcl
 
+**/.terraform
+**/.terraform.lock.hcl
 **/.tfstate
 **/.tfstate.backup
