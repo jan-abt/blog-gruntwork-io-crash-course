@@ -1,7 +1,9 @@
 
 .idea
 
-blog-gruntwork-io.iml
+**/.DS_Store
+
+-gruntwork-io.iml
 
  .terraform
 *.tfstate
