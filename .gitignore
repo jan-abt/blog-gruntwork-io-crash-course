@@ -9,8 +9,8 @@
 *.tfstate
 *.tfstate.backup
 
-**/.terraform
-**/.terraform.lock.hcl
+module-example/multi-server/.terraform
+module-example/multi-server/.terraform.lock.hcl
 
 **/.tfstate
 **/.tfstate.backup
